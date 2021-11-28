@@ -4,3 +4,9 @@ const app = Vue.createApp({
   })
 })
 app.mount('#app')
+const app = Vue.createApp({
+  data: () => ({
+
+  })
+})
+app.mount('#app')
